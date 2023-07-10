@@ -4,4 +4,4 @@
 
 Um joguinho simples que foi feito utilizando o elemtno HTML CANVAS para criar os movimentos da bolinha e da raquete e dar vida ao jogo.
 
-<a href= "https://luiiz-souza.github.io/Jogo-Ping-Pong-Web/" target= "_blank">Clique Aqui</a> para abrir o jogo!
+<a href= "https://luiiz-souza.github.io/Jogo-Ping-Pong-Web/" target="_blank">Clique Aqui</a> para abrir o jogo!
